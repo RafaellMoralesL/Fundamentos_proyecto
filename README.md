@@ -22,4 +22,4 @@ Hay distintos requerimientos necesarios antes de poder ejecutar un archivo C, es
 ``` Usando el comando gcc nombredeseado.c es una forma de compilarlo dentro de VSCode ```
 10. Ejecutar el archivo compilado c
 ``` Usando el comando cl nombreusadoalcompilar .c es una de las formas de ejecutarlo en VSCode ```
-11. Proseguir con las instrucciones dle programa
+11. Proseguir con las instrucciones del programa
