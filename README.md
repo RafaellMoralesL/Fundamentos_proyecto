@@ -1,4 +1,4 @@
-Este es un proyecto en el lenguaje compilado de C, _ los lenguajes compilados requieren de un proceso extra, que transforma el código creado a lenguaje que entienda la computadora para su ejecución, si no se compila, no se crea un ejecutable que se utiliza para correr el código en dicha computadora _
+Este es un proyecto en el lenguaje compilado de C, _los lenguajes compilados requieren de un proceso extra, que transforma el código creado a lenguaje que entienda la computadora para su ejecución, si no se compila, no se crea un ejecutable que se utiliza para correr el código en dicha computadora_
 
 ### En resumen, 
 Este proyecto C es un conversor de divisas, o monedas, se utilizan varios comandos como printf, para mostrar datos en pantalla y pedir datos al usuario, scan, para indicar que la anterior linea le pide datos a un usuario, guardarlo y utilizarlo en algun otro momento como una variabe, if, para condicionar partes del código a realizar un proceso distinto dependiendo si se cumple o no.
